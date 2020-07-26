@@ -7,5 +7,5 @@ torch_demos
 []()<br>
 [YT: PyTorch on the GPU - Training Neural Networks with CUDA](https://youtu.be/Bs1mdHZiAS8)<br>
 []()<br>
-[]()<br>
+[PyTorch using the GPU](https://youtu.be/6gk7giKER6s)<br>
 []()<br>
