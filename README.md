@@ -9,6 +9,9 @@ torch_demos
 []()<br>
 [sentdex: PyTorch using the GPU](https://youtu.be/6gk7giKER6s)<br>
 [sentdex: Pytorch with GPU code ](https://pythonprogramming.net/gpu-deep-learning-neural-network-pytorch/)<br>
+[examples/mnist/main.py](https://github.com/pytorch/examples/blob/97304e232807082c2e7b54c597615dc0ad8f6173/mnist/main.py#L89)<br>
+[]()<br>
+[]()<br>
 []()<br>
 []()<br>
 
