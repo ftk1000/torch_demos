@@ -12,6 +12,12 @@ torch_demos
 []()<br>
 []()<br>
 
-LSA, LDA ect
+# LSA, LDA ect
+
 [Topic Modeling with LSA, PLSA, LDA & lda2Vec](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)<br>
+[https://github.com/topics/topic-modelling](https://github.com/topics/topic-modelling)<br>
+[https://github.com/topics/topic-modeling](https://github.com/topics/topic-modeling)<br>
+[]()<br>
+[]()<br>
+[]()<br>
 []()<br>
