@@ -11,5 +11,7 @@ torch_demos
 [sentdex: Pytorch with GPU code ](https://pythonprogramming.net/gpu-deep-learning-neural-network-pytorch/)<br>
 []()<br>
 []()<br>
-[]()<br>
+
+LSA, LDA ect
+[Topic Modeling with LSA, PLSA, LDA & lda2Vec](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)<br>
 []()<br>
