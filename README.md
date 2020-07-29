@@ -16,8 +16,12 @@ torch_demos
 [examples/mnist/main.py](https://github.com/pytorch/examples/blob/97304e232807082c2e7b54c597615dc0ad8f6173/mnist/main.py#L89)<br>
 []()<br>
 []()<br>
+
+# ABOUT PYTORCH
+[comprehensive-overview-of-pytorch](https://medium.com/@layog/a-comprehensive-overview-of-pytorch-7f70b061963f)<br>
 []()<br>
 []()<br>
+
 
 # Topic Modeling: LSA, LDA ect
 
