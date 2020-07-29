@@ -1,3 +1,7 @@
+# PERFORMANCE ON COLAB
+
+   torch_gpu_comp.ipynb 50 eps 45 sec
+
 # torch_demos
 torch_demos
 
