@@ -5,20 +5,20 @@
 # torch_demos
 torch_demos
 
-
-[LEARNING PYTORCH WITH EXAMPLES pytorch.org/tutorials/beginner/pytorch_with_examples.html](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)<br>
-[CUSTOM C++ AND CUDA EXTENSIONS](https://pytorch.org/tutorials/advanced/cpp_extension.html)<br>
+* [https://atcold.github.io/pytorch-Deep-Learning/](https://atcold.github.io/pytorch-Deep-Learning/)
+* [LEARNING PYTORCH WITH EXAMPLES pytorch.org/tutorials/beginner/pytorch_with_examples.html](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)<br>
+* [CUSTOM C++ AND CUDA EXTENSIONS](https://pytorch.org/tutorials/advanced/cpp_extension.html)<br>
+* []()<br>
+* [YT: PyTorch on the GPU - Training Neural Networks with CUDA](https://youtu.be/Bs1mdHZiAS8)<br>
 []()<br>
-[YT: PyTorch on the GPU - Training Neural Networks with CUDA](https://youtu.be/Bs1mdHZiAS8)<br>
-[]()<br>
-[sentdex: PyTorch using the GPU](https://youtu.be/6gk7giKER6s)<br>
-[sentdex: Pytorch with GPU code ](https://pythonprogramming.net/gpu-deep-learning-neural-network-pytorch/)<br>
-[examples/mnist/main.py](https://github.com/pytorch/examples/blob/97304e232807082c2e7b54c597615dc0ad8f6173/mnist/main.py#L89)<br>
+* [sentdex: PyTorch using the GPU](https://youtu.be/6gk7giKER6s)<br>
+* [sentdex: Pytorch with GPU code ](https://pythonprogramming.net/gpu-deep-learning-neural-network-pytorch/)<br>
+* [examples/mnist/main.py](https://github.com/pytorch/examples/blob/97304e232807082c2e7b54c597615dc0ad8f6173/mnist/main.py#L89)<br>
 []()<br>
 []()<br>
 
 # ABOUT PYTORCH
-[comprehensive-overview-of-pytorch](https://medium.com/@layog/a-comprehensive-overview-of-pytorch-7f70b061963f)<br>
+* [comprehensive-overview-of-pytorch](https://medium.com/@layog/a-comprehensive-overview-of-pytorch-7f70b061963f)<br>
 []()<br>
 []()<br>
 
